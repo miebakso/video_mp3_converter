@@ -1,6 +1,6 @@
 # Video to MP3 Converter
 
-A python script to convert 
+A python script to convert video into audio
 
 ## Instalation Guide
 
